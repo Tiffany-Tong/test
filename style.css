@@ -1,0 +1,42 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background-color: lightcyan;
+    font-size: xx-large;
+  }
+   
+  h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+   
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  }
+   
+  img{
+    padding-top: 50px;
+  }
+   
+  p {
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+  }
+   
+  .checked {
+    color: rgb(231, 182, 89);
+  }
+   
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250;
+    height: 375;
+  }
+   
+  p:hover {
+    color: lightblue;
+  }
+  
